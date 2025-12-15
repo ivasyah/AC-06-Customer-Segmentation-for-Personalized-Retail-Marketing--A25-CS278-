@@ -34,7 +34,7 @@ Tahapan analisis yang dilakukan dalam proyek ini meliputi:
 ├── notebook
 │   └── Notebook.ipynb
 ├── data
-│   └── Cleaning_OnlineRetail.rar
+│   └── online_retail.rar
 ├── README.md
 ```
 
